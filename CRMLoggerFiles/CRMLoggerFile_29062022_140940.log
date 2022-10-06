@@ -1,0 +1,16 @@
+2022-06-29 14:09:45,051  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 14:09:48,319  INFO [main] HomePage:46 - Home Page Title Verified
+2022-06-29 14:09:48,576  INFO [main] HomePage:117 - Browser Terminated
+2022-06-29 14:09:48,576  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-29 14:09:52,557  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 14:09:56,627  INFO [main] HomePage:54 - UserName Verified
+2022-06-29 14:09:56,863  INFO [main] HomePage:117 - Browser Terminated
+2022-06-29 14:09:56,864  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-29 14:10:00,650  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 14:10:05,027  INFO [main] ContactsPage:62 - Switched into Frame and Clicked on Contacts Link
+2022-06-29 14:10:05,248  INFO [main] ContactsPage:117 - Browser Terminated
+2022-06-29 14:10:05,249  INFO [main] ContactsPage:118 - -----------------------------------------------
+2022-06-29 14:10:08,561  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 14:10:12,334  INFO [main] DealsPage:70 - Switched into Frame and Clicked on Deals Link
+2022-06-29 14:10:12,567  INFO [main] DealsPage:117 - Browser Terminated
+2022-06-29 14:10:12,568  INFO [main] DealsPage:118 - -----------------------------------------------

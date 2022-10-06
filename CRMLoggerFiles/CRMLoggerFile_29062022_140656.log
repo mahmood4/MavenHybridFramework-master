@@ -1,0 +1,4 @@
+2022-06-29 14:07:00,858  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 14:07:04,824  INFO [main] ContactsPage:62 - Switched into Frame and Clicked on Contacts Link
+2022-06-29 14:07:05,079  INFO [main] ContactsPage:117 - Browser Terminated
+2022-06-29 14:07:05,079  INFO [main] ContactsPage:118 - -----------------------------------------------

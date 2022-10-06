@@ -1,0 +1,12 @@
+2022-06-29 00:00:10,733  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-29 00:00:10,804  INFO [main] LoginPage:36 - Login Page Title Verified
+2022-06-29 00:00:13,091  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-29 00:00:13,092  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-29 00:00:16,487  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-29 00:00:16,653  INFO [main] LoginPage:44 - CRM Logo Verified
+2022-06-29 00:00:17,146  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-29 00:00:17,150  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-29 00:00:20,785  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-29 00:00:23,214  INFO [main] HomePage:51 - Successfully Logged into CRM Application
+2022-06-29 00:00:23,529  INFO [main] HomePage:117 - Browser Terminated
+2022-06-29 00:00:23,530  INFO [main] HomePage:118 - -----------------------------------------------

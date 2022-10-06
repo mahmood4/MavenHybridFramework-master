@@ -1,0 +1,16 @@
+2022-06-29 23:13:19,301  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 23:13:23,066  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-29 23:13:23,359  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-29 23:13:23,361  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-29 23:13:26,888  INFO [main] TestUtility:35 - Application Launched Successfully
+2022-06-29 23:13:27,905  INFO [main] HomePage:117 - Browser Terminated
+2022-06-29 23:13:27,906  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-29 23:13:30,563  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 23:13:33,993  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-29 23:13:34,384  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-29 23:13:34,385  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-29 23:13:37,720  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 23:13:40,711  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-29 23:13:45,318  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-29 23:13:45,318  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-29 23:13:48,534  INFO [main] WebEventListener:32 - Application Launched Successfully

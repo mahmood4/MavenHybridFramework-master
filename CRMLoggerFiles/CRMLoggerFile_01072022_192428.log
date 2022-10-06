@@ -1,0 +1,30 @@
+2022-07-01 19:24:35,491  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-07-01 19:24:42,063  INFO [main] HomePage:46 - Home Page Title Verified
+2022-07-01 19:24:42,633  INFO [main] HomePage:117 - Browser Terminated
+2022-07-01 19:24:42,635  INFO [main] HomePage:118 - -----------------------------------------------
+2022-07-01 19:24:46,362  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-07-01 19:24:46,422  INFO [main] LoginPage:36 - Login Page Title Verified
+2022-07-01 19:24:48,358  INFO [main] LoginPage:117 - Browser Terminated
+2022-07-01 19:24:48,359  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-07-01 19:24:52,481  INFO [main] TestUtility:35 - Application Launched Successfully
+2022-07-01 19:24:57,733  INFO [main] ContactsPage:58 - Verified Single Contacts
+2022-07-01 19:24:58,197  INFO [main] ContactsPage:117 - Browser Terminated
+2022-07-01 19:24:58,198  INFO [main] ContactsPage:118 - -----------------------------------------------
+2022-07-01 19:25:02,721  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-07-01 19:25:06,593  INFO [main] HomePage:54 - UserName Verified
+2022-07-01 19:25:06,995  INFO [main] HomePage:117 - Browser Terminated
+2022-07-01 19:25:06,998  INFO [main] HomePage:118 - -----------------------------------------------
+2022-07-01 19:25:11,599  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-07-01 19:25:11,752  INFO [main] LoginPage:44 - CRM Logo Verified
+2022-07-01 19:25:13,396  INFO [main] LoginPage:117 - Browser Terminated
+2022-07-01 19:25:13,398  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-07-01 19:25:17,204  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-07-01 19:25:21,689  INFO [main] ContactsPage:62 - Switched into Frame and Clicked on Contacts Link
+2022-07-01 19:25:23,910  INFO [main] ContactsPage:117 - Browser Terminated
+2022-07-01 19:25:23,911  INFO [main] ContactsPage:118 - -----------------------------------------------
+2022-07-01 19:25:27,406  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-07-01 19:25:28,944  INFO [main] LoginPage:117 - Browser Terminated
+2022-07-01 19:25:28,945  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-07-01 19:25:33,089  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-07-01 19:25:36,177  INFO [main] HomePage:117 - Browser Terminated
+2022-07-01 19:25:36,178  INFO [main] HomePage:118 - -----------------------------------------------

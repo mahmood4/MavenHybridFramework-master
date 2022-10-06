@@ -1,0 +1,19 @@
+2022-06-30 22:31:16,530  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 22:31:19,707  INFO [main] HomePage:117 - Browser Terminated
+2022-06-30 22:31:19,709  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-30 22:31:22,565  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-30 22:31:22,906  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-30 22:31:22,907  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-30 22:31:26,877  INFO [main] TestUtility:35 - Application Launched Successfully
+2022-06-30 22:31:31,426  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 22:31:57,815  INFO [main] HomePage:117 - Browser Terminated
+2022-06-30 22:31:57,815  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-30 22:32:00,780  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-30 22:32:01,079  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-30 22:32:01,081  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-30 22:32:02,847  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 22:32:06,516  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-30 22:32:10,000  INFO [main] HomePage:51 - Successfully Logged into CRM Application
+2022-06-30 22:32:10,473  INFO [main] HomePage:117 - Browser Terminated
+2022-06-30 22:32:10,473  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-30 22:32:13,667  INFO [main] WebEventListener:32 - Application Launched Successfully

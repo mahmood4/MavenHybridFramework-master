@@ -1,0 +1,32 @@
+2022-06-30 08:02:16,052  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 08:02:20,166  INFO [main] HomePage:46 - Home Page Title Verified
+2022-06-30 08:02:20,514  INFO [main] HomePage:117 - Browser Terminated
+2022-06-30 08:02:20,515  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-30 08:02:24,622  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-30 08:02:24,718  INFO [main] LoginPage:36 - Login Page Title Verified
+2022-06-30 08:02:25,077  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-30 08:02:25,108  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-30 08:02:28,904  INFO [main] TestUtility:35 - Application Launched Successfully
+2022-06-30 08:02:35,752  INFO [main] ContactsPage:58 - Verified Single Contacts
+2022-06-30 08:02:36,066  INFO [main] ContactsPage:117 - Browser Terminated
+2022-06-30 08:02:36,066  INFO [main] ContactsPage:118 - -----------------------------------------------
+2022-06-30 08:02:40,080  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 08:02:43,617  INFO [main] HomePage:54 - UserName Verified
+2022-06-30 08:02:43,872  INFO [main] HomePage:117 - Browser Terminated
+2022-06-30 08:02:43,872  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-30 08:02:47,756  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-30 08:02:47,852  INFO [main] LoginPage:44 - CRM Logo Verified
+2022-06-30 08:02:48,217  INFO [main] LoginPage:117 - Browser Terminated
+2022-06-30 08:02:48,217  INFO [main] LoginPage:118 - -----------------------------------------------
+2022-06-30 08:02:51,802  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 08:02:56,268  INFO [main] ContactsPage:62 - Switched into Frame and Clicked on Contacts Link
+2022-06-30 08:02:56,732  INFO [main] ContactsPage:117 - Browser Terminated
+2022-06-30 08:02:56,732  INFO [main] ContactsPage:118 - -----------------------------------------------
+2022-06-30 08:03:00,675  INFO [main] WebEventListener:26 - Application Launched Successfully
+2022-06-30 08:03:03,854  INFO [main] HomePage:51 - Successfully Logged into CRM Application
+2022-06-30 08:03:04,647  INFO [main] HomePage:117 - Browser Terminated
+2022-06-30 08:03:04,647  INFO [main] HomePage:118 - -----------------------------------------------
+2022-06-30 08:03:09,193  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-30 08:03:13,709  INFO [main] DealsPage:70 - Switched into Frame and Clicked on Deals Link
+2022-06-30 08:03:14,032  INFO [main] DealsPage:117 - Browser Terminated
+2022-06-30 08:03:14,032  INFO [main] DealsPage:118 - -----------------------------------------------

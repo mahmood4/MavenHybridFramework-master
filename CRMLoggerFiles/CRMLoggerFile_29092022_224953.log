@@ -1,0 +1,13 @@
+2022-09-29 22:50:04,530  INFO [TestNG-tests-1] WebEventListener:35 - Application Launched Successfully
+2022-09-29 22:50:05,853  INFO [TestNG-tests-2] LoginPage:35 - Application Launched Successfully
+2022-09-29 22:50:11,767  INFO [TestNG-tests-1] WebEventListener:32 - Application Launched Successfully
+2022-09-29 22:50:13,624  INFO [TestNG-tests-2] DealsPage:32 - Application Launched Successfully
+2022-09-29 22:50:21,755  INFO [TestNG-tests-2] WebEventListener:35 - Application Launched Successfully
+2022-09-29 22:50:22,282  INFO [TestNG-tests-1] LoginPage:35 - Application Launched Successfully
+2022-09-29 22:50:27,580  INFO [TestNG-tests-2] WebEventListener:32 - Application Launched Successfully
+2022-09-29 22:50:28,935  INFO [TestNG-tests-1] DealsPage:32 - Application Launched Successfully
+2022-09-29 22:50:39,596  INFO [TestNG-tests-1] WebEventListener:35 - Application Launched Successfully
+2022-09-29 22:50:39,825  INFO [TestNG-tests-2] LoginPage:35 - Application Launched Successfully
+2022-09-29 22:50:50,519  INFO [TestNG-tests-2] WebEventListener:32 - Application Launched Successfully
+2022-09-29 22:51:05,834  INFO [TestNG-tests-1] WebEventListener:32 - Application Launched Successfully
+2022-09-29 22:51:16,570  INFO [TestNG-tests-2] WebEventListener:32 - Application Launched Successfully

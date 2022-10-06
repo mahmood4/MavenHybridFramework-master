@@ -1,0 +1,4 @@
+2022-06-29 14:07:43,385  INFO [main] WebEventListener:32 - Application Launched Successfully
+2022-06-29 14:07:47,510  INFO [main] DealsPage:70 - Switched into Frame and Clicked on Deals Link
+2022-06-29 14:07:47,794  INFO [main] DealsPage:117 - Browser Terminated
+2022-06-29 14:07:47,794  INFO [main] DealsPage:118 - -----------------------------------------------
